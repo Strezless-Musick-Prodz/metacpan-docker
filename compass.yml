@@ -1,0 +1,13 @@
+name: metacpan-docker
+id: ari:cloud:compass:1051b516-7af4-47f5-9157-912549a8adef:component/f21c7ce4-c402-48e4-8dd8-7e9eb713fe26/9e334e3f-3dd0-42da-b93c-27bb6359681d
+description: DEVELOPMENT Docker configs for MetaCPAN
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
